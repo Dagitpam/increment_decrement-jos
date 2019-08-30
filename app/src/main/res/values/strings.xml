@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">firstProject</string>
+<string name="app_title"><![CDATA[Increment & Decrement App]]></string>
+<string name="tv_zero">0</string>
+<string name="text_decrementapp">DecrementApp</string>
+<string name="text_increment">INCREMENT APP</string>
+</resources>
